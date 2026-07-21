@@ -1,10 +1,11 @@
+<div align="center">
 # ¡Hola! Soy Josthin Sebastián Paz Nieto 👋
 
-<p align="left">
-  <b>Desarrollador Fullstack Junior | Estudiante de Relaciones Internacionales & Estudios Políticos</b>
+<p align="center">
+  <b>Junior Fullstack Developer | International Relations & Political Studies Student</b>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:Josthinpaz2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.credly.com/users/josthin-paz"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges" /></a>
   <a href="https://github.com/JosthinPaz2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
