@@ -13,14 +13,17 @@
 
 ---
 
-<table>
+<!-- Tabla optimizada: sin bordes y GIF más grande -->
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
 <tr>
 
-<td width="25%" align="center">
-<img src="potter.gif" width="170">
+<!-- Columna del GIF (30% de ancho) -->
+<td width="30%" align="center" style="border: none; padding-right: 15px;">
+<img src="potter.gif" alt="Harry Potter Pixel Art" width="100%" style="display: block;">
 </td>
 
-<td width="75%" valign="middle">
+<!-- Columna de texto (70% de ancho) -->
+<td width="70%" valign="top" style="border: none;">
 
 ```diff
 @@ Fullstack Developer (Backend Focused) @@
