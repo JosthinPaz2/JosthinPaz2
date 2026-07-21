@@ -13,21 +13,27 @@
 ---
 
 <table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/hollow-knight.gif" width="160" alt="Avatar" />
-    </td>
-<td width="75%">
+<tr>
 
-<pre>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/hollow-knight.gif" width="170">
+</td>
+
+<td width="75%" valign="middle">
+
+```diff
 @@ Fullstack Developer (Backend Focused) @@
-<span style="color:green">+ Living in Colombia, Colombian.</span>
-<span style="color:red">- 19 years old</span>
-<span style="color:orange">! Program Engineer, Web & Desktop Developer</span>
-<span style="color:gray"># Apprentice SENA | International Relations @ UMNG</span>
-</pre>
++ Living in Colombia 🇨🇴
+- 19 years old
+! Software Engineering Student
+# Web & Desktop Developer (Python • React • FastAPI)
+# SENA Apprentice | International Relations @ UMNG
+```
 
 </td>
+
+</tr>
+</table>
 ---
 
 
