@@ -61,6 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
 </p>
 
+
+### Version Control and Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,git hub" alt="Databases" />
+</p>
+
 ### Testing, Cloud & Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,jest,cypress,postman,arduino" alt="DevOps & Tools" />
