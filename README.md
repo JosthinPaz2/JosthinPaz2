@@ -48,7 +48,7 @@
 
 ### Bases de Datos & Análisis
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
 </p>
@@ -72,6 +72,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,jest,cypress,postman,arduino" alt="DevOps & Tools" />
   <img src="https://cdn.simpleicons.org/ollama/white" alt="ollama" width="40" height="40" title="Ollama AI"/>
+</p>
+
+### Recently, I'm also learning:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Learning" />
 </p>
 
 ---
