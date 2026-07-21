@@ -82,8 +82,12 @@
 
 ### IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,slack" alt="IDEs & Tools" />
-  <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="48" height="48" title="Cursor IDE" style="vertical-align: middle;" />
+  <!-- Skillicons soporta: vscode, figma, slack, py, etc. -->
+  <img src="https://skillicons.dev/icons?i=vscode,figma,slack,py" alt="IDEs & Tools" />
+  <!-- Logo de Cursor SVG formateado -->
+  <a href="https://cursor.com">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="vertical-align: top;" />
+  </a>
 </p>
 
 ### Recently, I'm also learning:
