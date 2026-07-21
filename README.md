@@ -1,7 +1,7 @@
-# Hi there! I'm Josthin Paz 👋
+# ¡Hola! Soy Josthin Sebastián Paz Nieto 👋
 
 <p align="left">
-  <b>Junior Fullstack Developer (Backend Focused) | International Relations Student</b>
+  <b>Desarrollador Fullstack Junior | Estudiante de Relaciones Internacionales & Estudios Políticos</b>
 </p>
 
 <p align="left">
@@ -10,18 +10,55 @@
   <a href="https://github.com/JosthinPaz2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<!-- ENCABEZADO ESTILO TERMINAL CON ESPACIO PARA TU AVATAR/GIF -->
+---
+
 <table>
   <tr>
     <td width="25%" align="center" valign="middle">
-      <!-- Reemplaza el src con la URL de tu imagen o GIF de Hollow Knight -->
       <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/hollow-knight.gif" width="160" alt="Avatar" />
     </td>
-    <td width="75%">
+<td width="75%">
 
-```bash
+<pre>
 @@ Fullstack Developer (Backend Focused) @@
-+ living in Colombia, Colombian.
-- 19 years old
-! software technologist, web & desktop developer
-# SENA Apprentice | International Relations @ UMNG
+<span style="color:green">+ Living in Colombia, Colombian.</span>
+<span style="color:red">- 19 years old</span>
+<span style="color:orange">! Program Engineer, Web & Desktop Developer</span>
+<span style="color:gray"># Apprentice SENA | International Relations @ UMNG</span>
+</pre>
+
+</td>
+---
+
+
+## 🛠️ Stack Tecnológico & Herramientas
+
+### 🎨 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend & Lógica
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,php,nodejs,express,django,flask" alt="Backend Skills" />
+</p>
+
+### 🗄️ Bases de Datos & Análisis
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
+</p>
+
+### 🧪 Testing, Cloud & Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,jest,cypress,postman,arduino" alt="DevOps & Tools" />
+  <img src="https://cdn.simpleicons.org/ollama/white" alt="ollama" width="40" height="40" title="Ollama AI"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" width="100%" />
+</p> 
+
+
