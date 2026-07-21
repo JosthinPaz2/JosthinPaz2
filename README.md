@@ -41,18 +41,10 @@
 
 ### Languages:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python," alt="Lenguages Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="Lenguages Skills" />
 </p>
 
-### Frontend & Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Skills" />
-</p>
-
-### Backend & Lógica
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,nodejs,express,django,flask" alt="Backend Skills" />
-</p>
+### Frameworks:
 
 ### Bases de Datos & Análisis
 <p align="center">
@@ -61,10 +53,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
 </p>
 
+### Mobile App Development Technologies & Tools:
+<p align="center">
+  <i>Coming Soon...</i>
+</p>
 
 ### Version Control and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,git hub" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
+</p>
+
+### Operating Systems and Others:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,vscode" alt="OS and Others" />
 </p>
 
 ### Testing, Cloud & Herramientas
