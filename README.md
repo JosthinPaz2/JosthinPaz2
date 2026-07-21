@@ -74,13 +74,13 @@
 
 ### Operating Systems and Others:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,cursor" alt="OS and Others" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode" alt="OS and Others" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
 </p>
 
 ### Testing, Herramientas e IA:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jest,cypress,postman,arduino" alt="Testing & Tools" />
-  <img src="https://cdn.simpleicons.org/openai/white" alt="ChatGPT" width="40" height="40" title="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/googlegemini/white" alt="Gemini" width="40" height="40" title="Google Gemini"/>
   <img src="https://cdn.simpleicons.org/qwen/white" alt="Qwen" width="40" height="40" title="Qwen AI"/>
   <img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="40" height="40" title="Ollama AI"/>
