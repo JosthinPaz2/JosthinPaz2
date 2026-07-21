@@ -17,7 +17,7 @@
 <tr>
 
 <td width="25%" align="center">
-<img src="potter.mp4" width="170">
+<img src="potter.gif" width="170">
 </td>
 
 <td width="75%" valign="middle">
