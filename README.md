@@ -82,7 +82,14 @@
 
 ### IDEs & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,slack,cursor" alt="IDEs & Tools" />
+  <!-- Skillicons para los compatibles -->
+  <img src="https://skillicons.dev/icons?i=vscode,figma,slack,discord" style="vertical-align: middle;" />
+
+  <!-- Jupyter (SimpleIcons) -->
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter" alt="Jupyter" style="vertical-align: middle; margin: 0 4px;" />
+
+  <!-- Cursor (SimpleIcons) -->
+  <img src="https://cdn.simpleicons.org/cursor/white" width="48" height="48" title="Cursor" alt="Cursor" style="vertical-align: middle; margin: 0 4px;" />
 </p>
 
 ### Recently, I'm also learning:
