@@ -1,4 +1,4 @@
-# ¡Hola! Soy Josthin Sebastián Paz Nieto 👋
+# Hi there! I'm Josthin Sebastián Paz Nieto 👋
 
 <p align="left">
   <b>Desarrollador Fullstack Junior | Estudiante de Relaciones Internacionales & Estudios Políticos</b>
@@ -10,46 +10,24 @@
   <a href="https://github.com/JosthinPaz2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-## 👨‍💻 Perfil Profesional
-
-Soy **Tecnólogo en Análisis y Desarrollo de Software (ADSO)** y estudiante de **Relaciones Internacionales y Estudios Políticos** en la Universidad Militar Nueva Granada. 
-
-Mi enfoque profesional combina el **desarrollo técnico Fullstack** con una **visión estratégica, analítica y de gestión documental**. Cuento con experiencia en la construcción de aplicaciones web y móviles, arquitectura e integración de bases de datos, consumo de APIs y soporte técnico integral.
-
----
-
-
-## 🛠️ Stack Tecnológico & Herramientas
-
-### 🎨 Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend & Lógica
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,php,nodejs,express,django,flask" alt="Backend Skills" />
-</p>
-
-### 🗄️ Bases de Datos & Análisis
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
-</p>
-
-### 🧪 Testing, Cloud & Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,jest,cypress,postman,arduino" alt="DevOps & Tools" />
-  <img src="https://cdn.simpleicons.org/ollama/white" alt="ollama" width="40" height="40" title="Ollama AI"/>
-</p>
-
----
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" width="100%" />
+  <a href="https://git.io/typing-readme">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Fullstack+Junior+Developer;Software+Analysis+%26+Dev+Technologist;Desktop+Dev+(Tauri)+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- SECCIÓN CON IMAGEN A LA IZQUIERDA Y TERMINAL A LA DERECHA -->
+<table>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <!-- Reemplaza esta URL por la imagen/GIF que prefieras -->
+      <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/hollow-knight.gif" width="160" alt="Avatar" />
+    </td>
+    <td width="75%">
 
-
+```bash
+@@ Fullstack Junior Developer @@
++ ADSO Technologist & SENA Apprentice
++ International Relations & Political Studies Student @ UMNG
+! Focus: Fullstack Web/Mobile Dev, Cloud & Desktop Apps (Tauri/CustomTkinter)
+# Tech-driven, analytical, and perfectionist
