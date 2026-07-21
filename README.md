@@ -85,7 +85,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,discord" style="vertical-align: middle;" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" title="Jupyter" alt="Jupyter" style="vertical-align: middle; margin: 0 4px;" />
   <img src="https://cdn.simpleicons.org/cursor/white" width="48" height="48" title="Cursor" alt="Cursor" style="vertical-align: middle; margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" />
 </p>
 
 ### Recently, I'm also learning:
