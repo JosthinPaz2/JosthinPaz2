@@ -1,6 +1,6 @@
 <div align="center">
-# ¡Hola! Soy Josthin Sebastián Paz Nieto 👋
 
+# Hi! I'm Josthin Sebastián Paz Nieto 👋
 <p align="center">
   <b>Junior Fullstack Developer | International Relations & Political Studies Student</b>
 </p>
