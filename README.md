@@ -17,7 +17,7 @@
 <tr>
 
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/hollow-knight.gif" width="170">
+<img src="potter.mp4" width="170">
 </td>
 
 <td width="75%" valign="middle">
