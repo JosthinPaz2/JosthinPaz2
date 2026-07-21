@@ -82,11 +82,7 @@
 
 ### IDEs & Tools
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
-  <a href="https://jupyter.org/"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="44" height="44" alt="Jupyter" style="vertical-align: middle; margin: 0 4px;" /></a>
-  <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a>
-  <a href="https://slack.com/"><img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" /></a>
-  <a href="https://cursor.com/"><img src="https://cdn.simpleicons.org/cursor/white" width="40" height="40" alt="Cursor" style="vertical-align: middle; margin: 0 4px;" /></a>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,slack,cursor" alt="IDEs & Tools" />
 </p>
 
 ### Recently, I'm also learning:
