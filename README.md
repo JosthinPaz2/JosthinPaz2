@@ -34,7 +34,6 @@
 
 </tr>
 </table>
----
 
 
 ## 🛠️ Stack Tecnológico & Herramientas
