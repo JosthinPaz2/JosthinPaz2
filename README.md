@@ -39,24 +39,29 @@
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
-### 🎨 Frontend & Mobile
+### Languages:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python," alt="Lenguages Skills" />
+</p>
+
+### Frontend & Mobile
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,figma" alt="Frontend Skills" />
 </p>
 
-### ⚙️ Backend & Lógica
+### Backend & Lógica
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,php,nodejs,express,django,flask" alt="Backend Skills" />
 </p>
 
-### 🗄️ Bases de Datos & Análisis
+### Bases de Datos & Análisis
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
 </p>
 
-### 🧪 Testing, Cloud & Herramientas
+### Testing, Cloud & Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,jest,cypress,postman,arduino" alt="DevOps & Tools" />
   <img src="https://cdn.simpleicons.org/ollama/white" alt="ollama" width="40" height="40" title="Ollama AI"/>
