@@ -81,7 +81,7 @@
 </p>
 
 ### IDEs & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,slack" alt="IDEs & Tools" />
    <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
 </p>
