@@ -46,21 +46,16 @@
 
 ### Frontend Development Technologies and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,html,css" alt="Frontend" />
 </p>
 
 
 ### Backend Development + Database + DevOps & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,postgres" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,postgres,fastapi" alt="Backend and DB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
 </p> 
 
-### Bases de Datos & Análisis
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter Notebook"/>
-</p>
 
 ### Mobile App Development Technologies & Tools:
 <p align="center">
@@ -72,10 +67,9 @@
   <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
 </p>
 
-### Operating Systems and Others:
+### Operating Systems:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,vscode" alt="OS and Others" />
-  <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
+  <img src="https://skillicons.dev/icons?i=windows" alt="OS and Others" />
 </p>
 
 ### Testing, Herramientas e IA:
@@ -86,9 +80,16 @@
   <img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="40" height="40" title="Ollama AI"/>
 </p>
 
+### IDEs & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,figma,slack" alt="IDEs & Tools" />
+   <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
+</p>
+
 ### Recently, I'm also learning:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="Learning" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="DevOps & Tools" />
 </p>
 
 ---
