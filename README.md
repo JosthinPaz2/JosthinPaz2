@@ -75,7 +75,7 @@
 ### Operating Systems and Others:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,vscode" alt="OS and Others" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
+  <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="40" height="40" title="Cursor IDE"/>
 </p>
 
 ### Testing, Herramientas e IA:
