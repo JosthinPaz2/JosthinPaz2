@@ -74,9 +74,9 @@ Mi enfoque profesional combina el **desarrollo técnico Fullstack** con una **vi
 
 ## 🚀 Proyectos Destacados
 
-* 🛒 **[JosniShop](https://github.com/JosthinPaz2)**: Sistema híbrido de comercio electrónico (Web y Escritorio) para gestión de inventarios y ventas[cite: 2]. *(React, FastAPI, MariaDB, Vercel)*[cite: 2].
-* 🔑 **[YubiKey Management Dashboard](https://github.com/JosthinPaz2)**: Aplicación de escritorio para la auditoría, control y ciclo de vida de llaves de seguridad física[cite: 2]. *(Python, CustomTkinter, JSON NoSQL, pySerial)*[cite: 2].
-* 🎟️ **[Sistema de Gestión de Tickets](https://github.com/JosthinPaz2)**: Plataforma web para la administración y resolución de solicitudes de soporte técnico organizadas por sedes con tablero Kanban[cite: 2]. *(FastAPI, TypeScript, MariaDB, Tailwind CSS)*[cite: 2].
+* 🛒 **[JosniShop](https://github.com/nicolamaya/JOSNISHOP)**: Sistema híbrido de comercio electrónico (Web y Escritorio) para gestión de inventarios y ventas[cite: 2]. *(React, FastAPI, MariaDB, Vercel)*[cite: 2].
+* 🔑 **[YubiKey Management Dashboard](https://github.com/JosthinPaz2/yubikeys)**: Aplicación de escritorio para la auditoría, control y ciclo de vida de llaves de seguridad física[cite: 2]. *(Python, CustomTkinter, JSON NoSQL, pySerial)*[cite: 2].
+* 🎟️ **[Sistema de Gestión de Tickets](https://github.com/JosthinPaz2/SUPPORTS-SYSTEM)**: Plataforma web para la administración y resolución de solicitudes de soporte técnico organizadas por sedes con tablero Kanban[cite: 2]. *(FastAPI, TypeScript, MariaDB, Tailwind CSS)*[cite: 2].
 
 ---
 
